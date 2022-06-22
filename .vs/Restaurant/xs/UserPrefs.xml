@@ -1,18 +1,24 @@
 ﻿<Properties StartupConfiguration="{45409FEC-65FF-4737-B682-4404F27DBD53}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Customer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductController.cs">
     <Files>
-      <File FileName="Models/Customer.cs" Line="24" Column="1" />
-      <File FileName="Models/Category.cs" Line="17" Column="2" />
+      <File FileName="Data/ApplicationDbContext.cs" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/Product/Index.cshtml" Line="73" Column="34" />
+      <File FileName="Controllers/ProductController.cs" Line="213" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Restaurant" expanded="True" selected="True">
+          <Node name="Restaurant" expanded="True">
             <Node name="Restaurant" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Migrations" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductController.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Product" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

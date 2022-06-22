@@ -5,7 +5,6 @@
 /Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/Restaurant.runtimeconfig.json
 /Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/Restaurant.runtimeconfig.dev.json
 /Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/Restaurant.dll
-/Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/ref/Restaurant.dll
 /Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/Restaurant.pdb
 /Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
 /Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -450,6 +449,11 @@
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Customer/Index.cshtml.g.cs
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Product/Create.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Product/Delete.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Product/Details.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Product/Edit.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
@@ -464,3 +468,12 @@
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/ref/Restaurant.dll
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Restaurant.pdb
 /Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Restaurant.genruntimeconfig.cache
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Restaurant.csproj.AssemblyReference.cache
+/Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/System.Linq.Dynamic.Core.dll
+/Users/samoeunchhay/Projects/Restaurant/bin/Debug/net5.0/Restaurant
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/refint/Restaurant.dll
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Sale/Create.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Sale/Delete.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Sale/Details.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Sale/Edit.cshtml.g.cs
+/Users/samoeunchhay/Projects/Restaurant/obj/Debug/net5.0/Razor/Views/Sale/Index.cshtml.g.cs
